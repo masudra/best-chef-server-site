@@ -1,18 +1,147 @@
 [
-    {
-        "id": "0",
-        "name": "All News"
-    },
-    {
-        "id": "1",
-        "name": "Breaking News"
-    },
-    {
-        "id": "2",
-        "name": "Regular News"
-    },
-    {
-        "id": "3",
-        "name": "International News"
-    }
+  {
+    "id": 1,
+    "recipe_amaunt": 2,
+    "chef_name": "Gordon Ramsay",
+    "experience": "3+ years",
+    "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
+    "chef_photo": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 15000,
+    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
+    "recipe_details": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
+        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
+        "recipe_photo": "https://example.com/beef-wellington.jpg"
+      },
+      {
+        "recipe_name": "Roasted Scallops",
+        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
+        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
+        "recipe_photo": "https://example.com/roasted-scallops.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "recipe_amaunt": 3,
+    "chef_name": "Ina Garten",
+    "experience": "11+ years",
+    "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
+    "chef_photo": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 12000,
+    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
+    "recipe_details": [
+      {
+        "recipe_name": "Roasted Chicken",
+        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
+        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
+        "recipe_photo": "https://example.com/roasted-chicken.jpg"
+      },
+      {
+        "recipe_name": "Easy Chocolate Cake",
+        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
+        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
+        "recipe_photo": "https://example.com/chocolate-cake.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "recipe_amaunt": 6,
+    "chef_name": "Gordon Ramsay",
+    "experience": "20 years",
+    "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
+    "chef_photo": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 15000,
+    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
+    "recipe_details": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
+        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
+        "recipe_photo": "https://example.com/beef-wellington.jpg"
+      },
+      {
+        "recipe_name": "Roasted Scallops",
+        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
+        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
+        "recipe_photo": "https://example.com/roasted-scallops.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "recipe_amaunt": 3,
+    "chef_name": "Ina Garten",
+    "experience": "7 years",
+    "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
+    "chef_photo": "https://images.pexels.com/photos/7488995/pexels-photo-7488995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 12000,
+    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
+    "recipe_details": [
+      {
+        "recipe_name": "Roasted Chicken",
+        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
+        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
+        "recipe_photo": "https://example.com/roasted-chicken.jpg"
+      },
+      {
+        "recipe_name": "Easy Chocolate Cake",
+        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
+        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
+        "recipe_photo": "https://example.com/chocolate-cake.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "recipe_amaunt": 5,
+    "chef_name": "Gordon Ramsay",
+    "experience": "9+ years",
+    "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
+    "chef_photo": "https://images.pexels.com/photos/5056637/pexels-photo-5056637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 15000,
+    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
+    "recipe_details": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
+        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
+        "recipe_photo": "https://example.com/beef-wellington.jpg"
+      },
+      {
+        "recipe_name": "Roasted Scallops",
+        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
+        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
+        "recipe_photo": "https://example.com/roasted-scallops.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "recipe_amaunt": 12,
+    "chef_name": "Ina Garten",
+    "experience": "40+ years",
+    "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
+    "chef_photo": "https://images.pexels.com/photos/7426529/pexels-photo-7426529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "like": 12000,
+    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
+    "recipe_details": [
+      {
+        "recipe_name": "Roasted Chicken",
+        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
+        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
+        "recipe_photo": "https://example.com/roasted-chicken.jpg"
+      },
+      {
+        "recipe_name": "Easy Chocolate Cake",
+        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
+        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
+        "recipe_photo": "https://example.com/chocolate-cake.jpg"
+      }
+    ]
+  }
 ]
+  
