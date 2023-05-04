@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "recipe_amaunt": 2,
+    "recipe_amaunt": 3,
     "chef_name": "Gordon Ramsay",
     "experience": "3+ years",
     "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
     "chef_photo": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 15000,
-    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
-    "recipe_details": [
-      {
-        "recipe_name": "Beef Wellington",
-        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
-        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
-        "recipe_photo": "https://example.com/beef-wellington.jpg"
-      },
-      {
-        "recipe_name": "Roasted Scallops",
-        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
-        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
-        "recipe_photo": "https://example.com/roasted-scallops.jpg"
-      }
-    ]
+    "recipe_name": "Spicy Tofu Stir Fry",
+      "ingredients": [
+        "1 block of firm tofu",
+        "1 red bell pepper",
+        "1 yellow onion",
+        "2 cloves of garlic",
+        "1 teaspoon of red pepper flakes",
+        "2 tablespoons of vegetable oil",
+        "1 tablespoon of soy sauce",
+        "1 tablespoon of cornstarch",
+        "Salt and pepper to taste"
+      ],
+      "cooking_method": "1. Press the tofu to remove any excess liquid. Cut the tofu into small cubes.\n2. Chop the red bell pepper and yellow onion into small pieces. Mince the garlic.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the tofu cubes and cook until golden brown, about 5 minutes.\n4. Add the chopped vegetables and minced garlic to the skillet and cook for another 5 minutes.\n5. In a small bowl, whisk together soy sauce, cornstarch, and red pepper flakes. Pour the mixture into the skillet and stir until the tofu and vegetables are coated. Cook for another 2-3 minutes.\n6. Season with salt and pepper to taste.",
+      "rating": 4.5,
+      "recipe_3":"1.Beef Stroganoff 2.Grilled Salmon with Avocado Salsa 3.Vegetable Curry"
   },
   {
     "id": 2,
@@ -31,117 +31,118 @@
     "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
     "chef_photo": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 12000,
-    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
-    "recipe_details": [
-      {
-        "recipe_name": "Roasted Chicken",
-        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
-        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
-        "recipe_photo": "https://example.com/roasted-chicken.jpg"
-      },
-      {
-        "recipe_name": "Easy Chocolate Cake",
-        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
-        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
-        "recipe_photo": "https://example.com/chocolate-cake.jpg"
-      }
-    ]
+    "recipe_name": "Chicken Parmesan",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup Italian breadcrumbs",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 jar (24 ounces) marinara sauce",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste",
+      "Olive oil for frying"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F (180°C).\n2. Season chicken breasts with salt and pepper.\n3. Dredge chicken in flour, then dip into beaten eggs, and coat with breadcrumbs.\n4. Heat olive oil in a large skillet over medium-high heat. Fry chicken until golden brown and cooked through, about 5-7 minutes per side.\n5. Place fried chicken in a baking dish. Cover with marinara sauce and sprinkle with shredded mozzarella and grated Parmesan cheese.\n6. Bake for 15-20 minutes, or until cheese is melted and bubbly.",
+    "rating": 4.8,
+    "recipe_3":"1.Garlic Butter Steak 2.Baked Mac and Cheese 3.Shrimp and Broccoli Stir Fry"
   },
   {
     "id": 3,
     "recipe_amaunt": 6,
-    "chef_name": "Gordon Ramsay",
+    "chef_name": "Mutafa Mursed",
     "experience": "20 years",
     "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
     "chef_photo": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 15000,
-    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
-    "recipe_details": [
-      {
-        "recipe_name": "Beef Wellington",
-        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
-        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
-        "recipe_photo": "https://example.com/beef-wellington.jpg"
-      },
-      {
-        "recipe_name": "Roasted Scallops",
-        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
-        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
-        "recipe_photo": "https://example.com/roasted-scallops.jpg"
-      }
-    ]
+    "recipe_name": "Lemon Garlic Shrimp",
+      "ingredients": [
+        "1 pound of shrimp, peeled and deveined",
+        "4 cloves of garlic, minced",
+        "1 lemon, juiced and zested",
+        "1/4 cup of olive oil",
+        "2 tablespoons of chopped parsley",
+        "Salt and pepper to taste"
+      ],
+      "cooking_method": "1. Preheat oven to 375°F (190°C).\n2. In a small bowl, whisk together olive oil, minced garlic, lemon juice, lemon zest, chopped parsley, salt, and pepper.\n3. Place the shrimp in a baking dish and pour the olive oil mixture over the shrimp. Toss to coat evenly.\n4. Bake for 12-15 minutes, or until the shrimp are pink and cooked through.",
+      "rating": 4.2,
+      "recipe_3":"1.Spicy Tofu Stir Fry 2.Chicken Parmesan 3.Lemon Garlic Shrimp"
+
+    
   },
   {
     "id": 4,
     "recipe_amaunt": 3,
-    "chef_name": "Ina Garten",
+    "chef_name": "Brendon",
     "experience": "7 years",
     "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
     "chef_photo": "https://images.pexels.com/photos/7488995/pexels-photo-7488995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 12000,
-    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
-    "recipe_details": [
-      {
-        "recipe_name": "Roasted Chicken",
-        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
-        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
-        "recipe_photo": "https://example.com/roasted-chicken.jpg"
-      },
-      {
-        "recipe_name": "Easy Chocolate Cake",
-        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
-        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
-        "recipe_photo": "https://example.com/chocolate-cake.jpg"
-      }
-    ]
+    "recipe_name": "Chicken Parmesan",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1 cup Italian breadcrumbs",
+      "1 cup all-purpose flour",
+      "2 eggs, beaten",
+      "1 jar (24 ounces) marinara sauce",
+      "1 cup shredded mozzarella cheese",
+      "1/2 cup grated Parmesan cheese",
+      "Salt and pepper to taste",
+      "Olive oil for frying"
+    ],
+    "cooking_method": "1. Preheat oven to 350°F (180°C).\n2. Season chicken breasts with salt and pepper.\n3. Dredge chicken in flour, then dip into beaten eggs, and coat with breadcrumbs.\n4. Heat olive oil in a large skillet over medium-high heat. Fry chicken until golden brown and cooked through, about 5-7 minutes per side.\n5. Place fried chicken in a baking dish. Cover with marinara sauce and sprinkle with shredded mozzarella and grated Parmesan cheese.\n6. Bake for 15-20 minutes, or until cheese is melted and bubbly.",
+    "rating": 4.8,
+    "recipe_3":"1.Spicy Tofu Stir Fry 2.Chicken Parmesan 3.Lemon Garlic Shrimp"
+
+      
   },
   {
     "id": 5,
     "recipe_amaunt": 5,
-    "chef_name": "Gordon Ramsay",
+    "chef_name": "Jubka jak",
     "experience": "9+ years",
     "description": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality...",
     "chef_photo": "https://images.pexels.com/photos/5056637/pexels-photo-5056637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 15000,
-    "treating": "Gordon Ramsay's signature dish is Beef Wellington, which is a filet of beef wrapped in puff pastry and served with mushroom duxelles and a red wine reduction...",
-    "recipe_details": [
-      {
-        "recipe_name": "Beef Wellington",
-        "ingredients": ["Filet of beef", "Puff pastry", "Mushroom duxelles", "Red wine"],
-        "instructions": ["Season and sear the beef", "Wrap in puff pastry with mushroom duxelles", "Bake until golden brown"],
-        "recipe_photo": "https://example.com/beef-wellington.jpg"
-      },
-      {
-        "recipe_name": "Roasted Scallops",
-        "ingredients": ["Scallops", "Peas", "Bacon", "Shallots", "White wine vinegar"],
-        "instructions": ["Roast the scallops in butter", "Puree the peas with bacon vinaigrette", "Serve with the scallops"],
-        "recipe_photo": "https://example.com/roasted-scallops.jpg"
-      }
-    ]
+    "recipe_name": "Chicken Parmesan",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 cup Italian breadcrumbs",
+        "1 cup all-purpose flour",
+        "2 eggs, beaten",
+        "1 jar (24 ounces) marinara sauce",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and pepper to taste",
+        "Olive oil for frying"
+      ],
+      "cooking_method": "1. Preheat oven to 350°F (180°C).\n2. Season chicken breasts with salt and pepper.\n3. Dredge chicken in flour, then dip into beaten eggs, and coat with breadcrumbs.\n4. Heat olive oil in a large skillet over medium-high heat. Fry chicken until golden brown and cooked through, about 5-7 minutes per side.\n5. Place fried chicken in a baking dish. Cover with marinara sauce and sprinkle with shredded mozzarella and grated Parmesan cheese.\n6. Bake for 15-20 minutes, or until cheese is melted and bubbly.",
+      "rating": 4.8,
+      "recipe_3":"1.Garlic Butter Steak 2.Baked Mac and Cheese 3.Shrimp and Broccoli Stir Fry"
+
+
   },
   {
     "id": 6,
     "recipe_amaunt": 12,
-    "chef_name": "Ina Garten",
+    "chef_name": "Ikosa luyan",
     "experience": "40+ years",
     "description": "Ina Garten is an American author and host of the Food Network program Barefoot Contessa...",
     "chef_photo": "https://images.pexels.com/photos/7426529/pexels-photo-7426529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "like": 12000,
-    "treating": "Ina Garten is famous for her roasted chicken, which is seasoned with garlic, lemon, and thyme...",
-    "recipe_details": [
-      {
-        "recipe_name": "Roasted Chicken",
-        "ingredients": ["Whole chicken", "Garlic", "Lemon", "Thyme", "Butter"],
-        "instructions": ["Season the chicken with garlic, lemon, and thyme", "Roast in the oven until golden brown"],
-        "recipe_photo": "https://example.com/roasted-chicken.jpg"
-      },
-      {
-        "recipe_name": "Easy Chocolate Cake",
-        "ingredients": ["All-purpose flour", "Sugar", "Cocoa powder", "Baking soda", "Salt", "Buttermilk", "Eggs", "Vegetable oil", "Vanilla extract"],
-        "instructions": ["Mix dry ingredients together", "Add wet ingredients and mix until smooth", "Bake in a greased cake pan for 30-35 minutes"],
-        "recipe_photo": "https://example.com/chocolate-cake.jpg"
-      }
-    ]
+    "recipe_name": "Lemon Garlic Shrimp",
+      "ingredients": [
+        "1 pound of shrimp, peeled and deveined",
+        "4 cloves of garlic, minced",
+        "1 lemon, juiced and zested",
+        "1/4 cup of olive oil",
+        "2 tablespoons of chopped parsley",
+        "Salt and pepper to taste"
+      ],
+      "cooking_method": "1. Preheat oven to 375°F (190°C).\n2. In a small bowl, whisk together olive oil, minced garlic, lemon juice, lemon zest, chopped parsley, salt, and pepper.\n3. Place the shrimp in a baking dish and pour the olive oil mixture over the shrimp. Toss to coat evenly.\n4. Bake for 12-15 minutes, or until the shrimp are pink and cooked through.",
+      "rating": 4.2,
+      "recipe_3":"1.Beef Stroganoff 2.Grilled Salmon with Avocado Salsa 3.Vegetable Curry"
+   
   }
 ]
   
